@@ -4,9 +4,13 @@
 ## 🙋‍♂️ About me
 
 🎓 **Data Science & Engineering Graduate**
+
 🤖 **AI/ML Engineer** with hands-on experience through internships in both industry and research environments
+
 🌍 **Open to opportunities globally** - Onsite, remote, or hybrid across multifunctional teams
+
 💡 Passionate about solving real-world problems through technology  
+
 🚀 Always learning, always building
 
 ## 💻 I code with:
