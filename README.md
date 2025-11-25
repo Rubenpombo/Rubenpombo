@@ -1,13 +1,12 @@
 # Hi, I'm Ruben 👋  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruben-pp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:146735955+Rubenpombo@users.noreply.github.com)
+[![Web](https://img.shields.io/badge/Web-%234285F4.svg?logo=googlechrome&logoColor=white)](https://rubenpombo.github.io/web/#hero)
 
 ## 🙋‍♂️ About me
 
 🎓 **Data Science & Engineering Graduate**
 
 🤖 **AI/ML Engineer** with hands-on experience through internships in both industry and research environments
-
-🌍 **Open to opportunities globally** - Onsite, remote, or hybrid across multifunctional teams
 
 💡 Passionate about solving real-world problems through technology  
 
